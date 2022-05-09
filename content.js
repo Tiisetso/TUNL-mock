@@ -1,1 +1,1 @@
-console.log("rytuj")
+console.log("jcijj")
