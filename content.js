@@ -1,2 +1,2 @@
 console.log("skuuw")
-console.log("sydap")
+console.log("pranw")
