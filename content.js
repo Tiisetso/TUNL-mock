@@ -1,2 +1,2 @@
 console.log("skuuw")
-console.log("daeyi")
+console.log("pwrad")
