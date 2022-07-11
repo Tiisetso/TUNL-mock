@@ -1,1 +1,1 @@
-console.log("vynsd")
+console.log("norft")
